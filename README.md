@@ -9,11 +9,11 @@ Maps are shown on detail pages of attractions with [Google Map API](https://clou
 
 ## Deployment
 
-The application is deployed on [Heroku](https://www.heroku.com). Related databases are on [MongoDB Atlas](https://cloud.mongodb.com).
+The application is deployed on [Heroku](https://www.heroku.com). Related databases are on [MongoDB Atlas](https://cloud.mongodb.com). Developed with [AWS Cloud9](https://aws.amazon.com/cloud9/).
 
 ## Note
 
 The website is currently named as YelpBridge and will be updated soon.
 
-Website of this application may be changed in the future.
+Website of this application may change in the future.
 
